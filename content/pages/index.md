@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Engaged in 'Dolce Far Niente'
+    title: '''Dolce Far Niente'''
     subtitle: Enjoying the sweetness of doing nothing
     styles:
       self:
