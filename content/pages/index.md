@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Engaged in 'Dolce Far Niente'
-    subtitle: Retired at last
+    subtitle: Retired at last - enjoying the sweetness of doing nothing
     styles:
       self:
         height: auto
